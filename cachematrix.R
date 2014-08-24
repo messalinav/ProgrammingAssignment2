@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCacheMatrix
+## cacheSolve
 
 ## Takes in a matrix of any size, initially stores an empty value "m"
 
