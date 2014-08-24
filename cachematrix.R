@@ -1,5 +1,5 @@
-## makeCacheMatrix
-## cacheSolve
+## makeCacheMatrix -- input: matrix, output:  variable 'm' initialized to "NULL"
+## cacheSolve -- input: matrix, output:inverse matrix (computes within fxn if 'm' is null
 
 ## Takes in a matrix of any size, initially stores an empty value "m"
 
